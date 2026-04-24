@@ -1,3 +1,4 @@
+# ordered, changeable, duplicate elements are okay, 
 # List means Array
 friends = ["Adib", "Badib", "Cadib", "Dadib"]
 
@@ -19,4 +20,5 @@ friends.sort()
 friends.clear()
 
 # Print list elements using loop
-for i in friends : print(i)
+marks = [21, 23, 34, 56, 14, 68]
+for i in marks : print(i)
