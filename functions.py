@@ -21,3 +21,9 @@ showList(2, 3, 4, 5, 8)
 def address(**kwargs):
     for value in kwargs.values() : print(value)
 address(street='123 True road', village='Abdullahpur', upazilla='Keraniganj', zilla='Dhaka')
+
+
+# EXERCISE
+# lower case sentence or word
+def lowerCase(text): return text.lower()
+print(lowerCase("HELLO GUyS!"))
