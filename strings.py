@@ -18,3 +18,5 @@ print(name.replace(".", ""))
 # Check if the thing is there or not (Returns True or False)
 print("Chowdhury" in name)
 print("Khan" in name)
+
+# Check count() function
